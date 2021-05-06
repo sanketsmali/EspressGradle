@@ -1,0 +1,7 @@
+{
+  "devices": ["Google Pixel 3-9.0"],
+  "project": "EspressoGradleBuild",
+  "shards": {
+    "numberOfShards": 2
+  }
+}
