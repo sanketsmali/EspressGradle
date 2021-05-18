@@ -65,5 +65,5 @@ spoon {
 browserStackConfig {
     username = "sanketmali4"
     accessKey = "XaqpcHttuyFzXSzC3uNM"
-    configFilePath = 'json/bstack-config.json'
+    configFilePath = "json/bstack-config.json"
 }
