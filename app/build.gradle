@@ -65,5 +65,5 @@ spoon {
 browserStackConfig {
     username = "sanketmali4"
     accessKey = "XaqpcHttuyFzXSzC3uNM"
-    configFilePath = '/Users/Sanket.M/Downloads/espresso-browserstack/app/bstack-config.json'
+    configFilePath = 'bstack-config.json'
 }
